@@ -30,7 +30,7 @@
 | Project | Description |
 |---------|-------------|
 | [python-cybersecurity-tools](https://github.com/gustavomoralesbarrantes-tech/python-cybersecurity-tools) | Python toolkit: port scanner, ARP spoof, DNS sniffer, MAC changer |
-| HTB Nibbles – Pentest Report *(coming soon)* | Full blackbox pentest report – RCE + privilege escalation to root |
+| [HTB Nibbles – Pentest Report](https://github.com/gustavomoralesbarrantes-tech/htb-nibbles-pentest-report) | Full blackbox pentest report – RCE + privilege escalation to root |
 
 ---
 
