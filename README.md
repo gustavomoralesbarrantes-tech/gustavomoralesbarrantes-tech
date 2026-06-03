@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Gustavo Morales
 
 **Infrastructure & Offensive Security Professional**<br>
-📍 San José, Costa Rica<br>
 🎓 B.S. Systems Engineering | Technical Degree in Cybersecurity<br>
 🏅 eJPTv2 · AZ-900 · MS-900 · MB-910
 
