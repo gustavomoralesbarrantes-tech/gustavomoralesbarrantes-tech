@@ -51,6 +51,7 @@ Currently deepening my offensive security practice through HackTheBox labs, pent
 | [python-cybersecurity-tools](https://github.com/gustavomoralesbarrantes-tech/python-cybersecurity-tools) | Python toolkit: port scanner, ARP spoof, DNS sniffer, MAC changer |
 | [HTB Nibbles – Pentest Report](https://github.com/gustavomoralesbarrantes-tech/htb-nibbles-pentest-report) | Full blackbox pentest report – RCE + privilege escalation to root |
 | [htb-myexpense-writeup](https://github.com/gustavomoralesbarrantes-tech/htb-myexpense-writeup) | VulnHub MyExpense — Stored XSS, Session Hijacking, SQLi writeup |
+| [Tryhackme-Rootme-writeup](https://github.com/gustavomoralesbarrantes-tech/Tryhackme-Rootme-writeup) | Web exploitation and Linux privilege escalation — file upload, reverse shell, SUID exploitation |
 ---
 
 ## 🧰 Tech Stack
